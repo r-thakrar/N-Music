@@ -3,11 +3,6 @@ html *
    font-family: 'Roboto', sans-serif;;
 }
 
-#applecentre{
-	margin-top: -10px;
-	margin-left:10px;
-}
-
 #first{
 	background-color: #000;
 	color: white;
@@ -16,6 +11,12 @@ html *
     background-size: cover;
     padding-top: 200px;
     padding-bottom: 200px;
+}
+#applecentre{
+	display: block;
+    margin-left: auto;
+    margin-right: auto
+}
 
 #third{
 	background-color: #F5FDF1;
@@ -49,7 +50,6 @@ html *
 #ipod-graphic{
     width: 730px;
     height: 741px;
-    left:35%;
     background-size: 730px 741px;
     background-repeat: no-repeat;
     background-image: url(http://images.apple.com/v/music/c/images/overview/ipod_large.png);
@@ -57,5 +57,5 @@ html *
 }
 
 #ipod-text{
-	margin-top: 100px;
+	margin-top: 200px;
 }
