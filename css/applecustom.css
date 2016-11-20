@@ -1,5 +1,4 @@
-html *
-{
+body{
    font-family: 'Roboto', sans-serif;;
 }
 
@@ -12,6 +11,7 @@ html *
     padding-top: 200px;
     padding-bottom: 200px;
 }
+
 #applecentre{
 	display: block;
     margin-left: auto;
@@ -57,5 +57,79 @@ html *
 }
 
 #ipod-text{
-	margin-top: 200px;
+	margin-top: 270px;
+}
+
+#fifth{
+
+	background-color: #E9F7F8;
+	height: 940px;
+}
+
+#accesories-graphic{
+
+	width: 718px;
+    height: 773px;
+    background-size: 718px 773px;
+    background-repeat: no-repeat;
+    background-image: url("http://images.apple.com/v/music/c/images/overview/accessories_large.png");
+    margin-top: 100px;
+}
+
+#accesories-text{
+	margin-top: 370px;
+}
+
+#sixth{
+
+	background-color: #FCE7E3;
+	height: 940px;
+}
+
+#itunes-graphic{
+	width: 1227px;
+    height: 750px;
+    left: 300px;
+    background-size: 1227px 750px;
+    background-repeat: no-repeat;
+    background-image: url(http://images.apple.com/v/music/c/images/overview/itunes_large.png);
+}
+
+#itunes-text{
+
+}
+
+#seventh{
+
+	background-color: #FCEFFC;
+	height: 600px;
+}
+
+#giftcards-graphic{
+	margin-top: 60px;
+	left:15%;
+	width: 507px;
+    height: 438px;
+    background-size: 507px 438px;
+    background-repeat: no-repeat;
+    background-image: url(http://images.apple.com/v/music/c/images/overview/gift_cards_large.png);
+}
+
+#giftcards-text{
+	margin-top: 100px;
+}
+
+#eighth{
+	background-color: white;
+}
+
+#creation-graphic{
+	width: 942px;
+    height: 494px;
+    background-size: 942px 494px;
+    background-repeat: no-repeat;
+    background-image: url(http://images.apple.com/v/music/c/images/overview/apps_large.jpg);
+    margin-top: 62px;
+    margin-bottom: 115px;
+    margin-left: 25px;
 }
