@@ -1,0 +1,12 @@
+div.jumbotron 	 {
+    background-image: url("http://www.nottinghamwinterwonderland.co.uk/index_files/stacks_image_25.jpg");
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color:white;
+   }
+
+body{
+	background-color:rgb(145, 11, 11);
+
+}
