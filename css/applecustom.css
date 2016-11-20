@@ -107,10 +107,10 @@ body{
 #itunes-graphic{
 	width: 1227px;
 	height: 750px;
-	left: 300px;
 	background-size: 1227px 750px;
 	background-repeat: no-repeat;
 	background-image: url(http://images.apple.com/v/music/c/images/overview/itunes_large.png);
+	left:150px;
 }
 
 #itunes-text{
