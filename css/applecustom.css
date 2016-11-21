@@ -10,6 +10,10 @@ body{
     background-image: url(http://images.apple.com/v/music/c/images/overview/apple_music_logo_large.png);
 }
 
+#nsp{
+	font-size: 400%;
+}
+
 #first{
 	background-color: #000;
 	color: white;
